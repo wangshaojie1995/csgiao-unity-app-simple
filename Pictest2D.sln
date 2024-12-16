@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARPUBG", "ARPUBG.csproj", "{41f6fb4b-24df-64ef-2163-eb32c97e7812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e1baba7d-afbd-f3f8-6696-bf2209d0e45e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests.csproj", "{b9838263-3655-f086-1e35-720fd2b99511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41f6fb4b-24df-64ef-2163-eb32c97e7812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41f6fb4b-24df-64ef-2163-eb32c97e7812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e1baba7d-afbd-f3f8-6696-bf2209d0e45e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e1baba7d-afbd-f3f8-6696-bf2209d0e45e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b9838263-3655-f086-1e35-720fd2b99511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b9838263-3655-f086-1e35-720fd2b99511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
